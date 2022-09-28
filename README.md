@@ -5,7 +5,7 @@ Introduce#####################.
 Literatures in this page are arranged from a classification perspective, including the following topics:
 - [Literature on Graph Neural Networks of Biological Molecules](#literature-on-graph-neural-networks-Molecular)
   - [Molecular representation](#)
-  - [Molecular generation：](#unconstrained generation||constrained generation )
+  - [Molecular generation：](#unconstrained-generation-constrained-generation )
   - [Surveys:](#surveys-and-performance-Molecular-on-graph-learning)
 
 
