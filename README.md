@@ -18,10 +18,10 @@ Literatures in this page are arranged from a classification perspective, includi
 ---
 ## Molecular representation
 
-* [**HPCA 2022**] Accelerating Graph Convolutional Networks Using Crossbar-based Processing-In-Memory Architectures. 
-  >*Huang Y, Zheng L, Yao P, et al.* [[Paper]](https://arxiv.org/pdf/2106.07802.pdf)
-* [**HPCA 2022**] GCoD: Graph Convolutional Network Acceleration via Dedicated Algorithm and Accelerator Co-Design. 
-  >*You H, Geng T, Zhang Y, et al.* [[Paper]](https://arxiv.org/pdf/2112.11594) [[GitHub]](https://github.com/PattanaikL/GeoMol)
+* [**NeurIPS 2021**] GemNet: Universal Directional Graph Neural Networks for Molecules. 
+  >*Johannes Gasteiger, Florian Becker, Stephan Günnemann et al.* [[Paper]](https://proceedings.neurips.cc/paper/2021/file/35cf8659cfcb13224cbd47863a34fc58-Paper.pdf)
+* [**ICLR 2020**] Directional Message Passing for Molecular Graphs. 
+  >*Johannes Gasteiger, Janek Groß, Stephan Günnemann et al.* [[Paper]](https://openreview.net/forum?id=B1eWbxStPH) [[GitHub]](https://github.com/xnuohz/DimeNet-dgl)
 
 ---
 ## Molecular generation
@@ -42,7 +42,5 @@ Literatures in this page are arranged from a classification perspective, includi
 ---
 ## Surveys
 
-* [**HPCA 2022**] Accelerating Graph Convolutional Networks Using Crossbar-based Processing-In-Memory Architectures. 
-  >*Huang Y, Zheng L, Yao P, et al.* [[Paper]](https://www.computer.org/csdl/proceedings-article/hpca/2022/202700b029/1Ds0gRvUFjO)
-* [**HPCA 2022**] GCoD: Graph Convolutional Network Acceleration via Dedicated Algorithm and Accelerator Co-Design. 
-  >*You H, Geng T, Zhang Y, et al.* [[Paper]](https://arxiv.org/pdf/2112.11594) [[GitHub]](https://github.com/rice-eic/gcod)
+* [**ARXIV 2022**] Geometrically Equivariant Graph Neural Networks: A Survey. 
+  >*Jiaqi Han, Yu Rong, Tingyang Xu, et al.* [[Paper]](https://arxiv.org/abs/2202.07230)
