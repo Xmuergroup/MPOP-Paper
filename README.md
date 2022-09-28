@@ -28,16 +28,15 @@ Literatures in this page are arranged from a classification perspective, includi
 
 * [**NeurIPS 2021**] GeoMol: Torsional Geometric Generation of Molecular 3D Conformer Ensembles. 
   >*Octavian Ganea, Lagnajit Pattanaik, Connor Coley,  et al.* [[Paper]](https://arxiv.org/pdf/2106.07802.pdf)[[GitHub]](https://github.com/PattanaikL/GeoMol)
-* [**HPCA 2022**] GCoD: Graph Convolutional Network Acceleration via Dedicated Algorithm and Accelerator Co-Design. 
-  >*You H, Geng T, Zhang Y, et al.* [[Paper]](https://arxiv.org/pdf/2112.11594) [[GitHub]](https://github.com/rice-eic/gcod)
+* [**ICML 2022**] Generating 3D Molecules for Target Protein Binding. 
+  >*Meng Liu, Youzhi Luo, Kanji Uchino,  et al.* [[Paper]](https://arxiv.org/abs/2204.09410) [[GitHub]](https://github.com/divelab/GraphBP)
 
 ---
 ## Molecular optimization
 
-* [**HPCA 2022**] Accelerating Graph Convolutional Networks Using Crossbar-based Processing-In-Memory Architectures. 
-  >*Huang Y, Zheng L, Yao P, et al.* [[Paper]](https://www.computer.org/csdl/proceedings-article/hpca/2022/202700b029/1Ds0gRvUFjO)
-* [**HPCA 2022**] GCoD: Graph Convolutional Network Acceleration via Dedicated Algorithm and Accelerator Co-Design. 
-  >*You H, Geng T, Zhang Y, et al.* [[Paper]](https://arxiv.org/pdf/2112.11594) [[GitHub]](https://github.com/rice-eic/gcod)
+* [**Scientific Reports 2022**] Optimization of Molecules via Deep Reinforcement Learning. 
+  >*Zhenpeng Zhou, Steven Kearnes, Li Li, et al.* [[Paper]](https://www.nature.com/articles/s41598-019-47148-x?ref=https://githubhelp.com)
+
 
 ---
 ## Surveys
