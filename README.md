@@ -4,13 +4,16 @@ Introduce#####################.
 
 Literatures in this page are arranged from a classification perspective, including the following topics:
 - [Literature on Graph Neural Networks of Biological Molecules](#literature-on-graph-neural-networks-Molecular)
-  - [Molecular representation](#SMILES-3D&2D equilateral Networks-Graph)
+  - [Molecular representation](#)
   - [Surveys:](#surveys-and-performance-Molecular-on-graph-learning)
 
 
 Click [here](./By-Time.md) to view these literatures in a reverse chronological order. You can also find [Related Conferences](./General%20Resources/Conference.md), [Graph Learning Tools](./General%20Resources/Frameworks%20%26%20Tools/), [Learning Materials on GNNs](./General%20Resources/Learning%20Materials) and Other Resources in [General Resources](./General%20Resources).
 
+ - [Molecular generation：](#Unconstrained generation||constrained generation )
+  - [Molecular optimization：](#Genetic Algorithm ||Monte-Carlo Tree Search||Bayesian optimization||Variational autoencoders||Score-based modeling||Reinforcement Learning||Translation-based)
 
+SMILES-3D&2D equilateral Networks-Graph
 
 ---
 ## Hardware Acceleration for Graph Neural Networks
