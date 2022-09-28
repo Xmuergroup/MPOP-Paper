@@ -4,7 +4,7 @@ Introduce#####################.
 
 Literatures in this page are arranged from a classification perspective, including the following topics:
 - [Literature on Graph Neural Networks of Biological Molecules](#literature-on-graph-neural-networks-acceleration)
-  - [Topic1:Molecular representation](#SMILES||3D&2D equilateral Networks|| Graph )
+  - [Topic1 Molecular representation](#SMILES||3D&2D equilateral Networks|| Graph )
   - [Topic2:Molecular generation](# Unconstrained generation||constrained generation )
   - [Topic3:Molecular optimization](#Genetic Algorithm ||Monte-Carlo Tree Search||Bayesian optimization||Variational autoencoders||Score-based modeling||Reinforcement Learning||Translation-based)
   - [Surveys:](#surveys-and-performance-Molecular-on-graph-learning)
