@@ -38,6 +38,8 @@ Literatures in this page are arranged from a classification perspective, includi
   >*Tianfan Fu, Wenhao Gao, et al.* [[Paper]](https://arxiv.org/abs/2109.10469) [[GitHub]](https://github.com/futianfan/DST)
 * [**Scientific Reports 2022**] Optimization of Molecules via Deep Reinforcement Learning. 
   >*Zhenpeng Zhou, Steven Kearnes, Li Li, et al.* [[Paper]](https://www.nature.com/articles/s41598-019-47148-x?ref=https://githubhelp.com)
+* [**ICLR 2022**] Energy-Inspired Molecular Conformation Optimization. 
+  >*Jiaqi Guan, Wesley Wei Qian, qiang liu, et al.* [[Paper]](https://openreview.net/forum?id=7QfLW-XZTl) [[GitHub]](https://github.com/guanjq/confopt_official)
 
 
 ---
