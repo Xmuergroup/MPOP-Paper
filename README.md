@@ -30,6 +30,14 @@ Literatures in this page are arranged from a classification perspective, includi
   >*Octavian Ganea, Lagnajit Pattanaik, Connor Coley,  et al.* [[Paper]](https://arxiv.org/pdf/2106.07802.pdf)[[GitHub]](https://github.com/PattanaikL/GeoMol)
 * [**ICML 2022**] Generating 3D Molecules for Target Protein Binding. 
   >*Meng Liu, Youzhi Luo, Kanji Uchino,  et al.* [[Paper]](https://arxiv.org/abs/2204.09410) [[GitHub]](https://github.com/divelab/GraphBP)
+* [**KDD 2022**] Graph Rationalization with Environment-based Augmentations. 
+  >*Gang Liu, Tong Zhao, Jiaxin Xu, et al.* [[Paper]](https://arxiv.org/abs/2206.02886)  
+* [**NeurIPS 2022**] Molecule Generation by Principal Subgraph Mining and Assembling.
+  >*Xiangzhe Kong, Wenbing Huang, Zhixing Tan, et al.* [[Paper]](https://paperswithcode.com/paper/graphpiece-efficiently-generating-high) 
+* [**ICLR 2022**] ENERGY-INSPIRED MOLECULAR CONFORMATION OPTIMIZATION.
+  >*Jiaqi Guan, Wesley Wei Qian, qiang liu, et al.* [[Paper]](https://openreview.net/forum?id=7QfLW-XZTl) 
+* [**ICML 2021**] Learning Gradient Fields for Molecular Conformation Generation.
+  >*Chence Shi, Shitong Luo, Minkai Xu, Jian Tang.* [[Paper]](https://arxiv.org/abs/2105.03902) 
 
 ---
 ## Molecular optimization
