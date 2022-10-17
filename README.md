@@ -22,7 +22,8 @@ Literatures in this page are arranged from a classification perspective, includi
   >*Johannes Gasteiger, Florian Becker, Stephan Günnemann et al.* [[Paper]](https://proceedings.neurips.cc/paper/2021/file/35cf8659cfcb13224cbd47863a34fc58-Paper.pdf)
 * [**ICLR 2020**] Directional Message Passing for Molecular Graphs. 
   >*Johannes Gasteiger, Janek Groß, Stephan Günnemann et al.* [[Paper]](https://openreview.net/forum?id=B1eWbxStPH) [[GitHub]](https://github.com/xnuohz/DimeNet-dgl)
-
+* [**AAAI 2022**]  GeomGCL: Geometric Graph Contrastive Learning for Molecular Property Prediction. 
+  >*Shuangli Li, Jingbo Zhou, Tong Xu, et al.* [[Paper]](https://arxiv.org/abs/2109.11730) 
 ---
 ## Molecular generation
 
@@ -38,6 +39,8 @@ Literatures in this page are arranged from a classification perspective, includi
   >*Jiaqi Guan, Wesley Wei Qian, qiang liu, et al.* [[Paper]](https://openreview.net/forum?id=7QfLW-XZTl) 
 * [**ICML 2021**] Learning Gradient Fields for Molecular Conformation Generation.
   >*Chence Shi, Shitong Luo, Minkai Xu, Jian Tang.* [[Paper]](https://arxiv.org/abs/2105.03902) 
+* [**ICLR 2021**] Learning Neural Generative Dynamics for Molecular Conformation Generation.
+  >*Minkai Xu, Shitong Luo, Yoshua Bengio, et al.* [[Paper]](https://arxiv.org/abs/2102.10240) 
 
 ---
 ## Molecular optimization
